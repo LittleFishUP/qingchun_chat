@@ -1,6 +1,6 @@
         qingchun_chat
         聊天项目基本介绍
-===
+=====
 
 ##项目完成基本功能<br>
 ###登录注册界面和好友列表界面<br>
@@ -22,11 +22,11 @@
 ![](https://github.com/LittleFishUP/qingchun_chat/raw/master/readmeimgs/7.png)
 ####3.完成聊天界面的构建和功能的搭建<br>
 ![](https://github.com/LittleFishUP/qingchun_chat/raw/master/readmeimgs/7.png)
-        由图片可知功能实现有群聊，单人聊天，表情发送，文件传输，更改字体字号，聊天记录。
+        由图片可知功能实现有群聊，单人聊天，表情发送，文件传输，更改字体字号，聊天记录。<br>
 ####4.数据库的搭建和后台代码的实现，完成与前端功能的连接，实现服务端处理前端数据<br>
 #####数据库的搭建<br>
 ![](https://github.com/LittleFishUP/qingchun_chat/raw/master/readmeimgs/8.png)
-(部分函数展示)
+(部分函数展示)<br>
 #####后台函数逻辑<br>
 ![](https://github.com/LittleFishUP/qingchun_chat/raw/master/readmeimgs/9.png)
-(部分函数展示)
+(部分函数展示)<br>
